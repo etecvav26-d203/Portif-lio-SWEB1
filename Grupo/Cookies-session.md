@@ -12,4 +12,13 @@ Assim, cada um é usado conforme a necessidade de segurança.
 
 ---
 
-‌
+## Exercício 2 – Pergunta de aplicação
+
+Em um sistema de loja virtual, as sessions podem ser usadas para manter o usuário logado, armazenando seus dados no servidor com segurança.  
+Também podem guardar itens do carrinho temporariamente enquanto o usuário navega.  
+Já os cookies podem ser usados para salvar preferências do usuário, como idioma ou produtos visualizados recentemente.  
+Cookies são úteis porque permanecem mesmo após fechar o navegador, dependendo da configuração.  
+As sessions, por outro lado, são mais seguras para dados importantes.  
+Dessa forma, o uso combinado dos dois melhora a experiência e a segurança do sistema.
+
+---‌
