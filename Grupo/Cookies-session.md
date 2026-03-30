@@ -22,3 +22,15 @@ As sessions, por outro lado, são mais seguras para dados importantes.
 Dessa forma, o uso combinado dos dois melhora a experiência e a segurança do sistema.
 
 ---‌
+
+## Exercício 3 – Pergunta de investigação
+
+Na primeira execução do código, o cookie é criado, mas ainda não pode ser acessado imediatamente.  
+Isso acontece porque ele só estará disponível na próxima requisição ao servidor.  
+Ao atualizar a página, o valor do cookie passa a ser exibido corretamente.  
+Nas ferramentas do navegador, é possível visualizar o cookie armazenado.  
+Quando os cookies do site são limpos, o valor desaparece e o processo se reinicia.  
+Isso mostra que o cookie depende do navegador para ser armazenado.  
+Por isso, ele não aparece na primeira execução.
+
+---
