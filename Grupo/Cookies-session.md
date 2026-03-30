@@ -34,3 +34,20 @@ Isso mostra que o cookie depende do navegador para ser armazenado.
 Por isso, ele não aparece na primeira execução.
 
 ---
+
+
+## Exercício 4 – Pergunta de reflexão
+
+As sessions são preferidas para autenticação porque são mais seguras, já que os dados ficam no servidor.  
+O navegador armazena apenas um identificador da sessão, reduzindo o risco de manipulação.  
+Cookies podem ser alterados pelo usuário, o que pode comprometer a segurança.  
+Além disso, sessions permitem maior controle sobre o tempo de login e encerramento.  
+Usar apenas cookies pode trazer riscos como acesso indevido ou roubo de dados.  
+Por isso, sistemas modernos utilizam sessions para proteger informações sensíveis dos usuários.
+
+# Referências
+RAMZY, H. How session and cookies works ? Disponível em: <https://medium.com/@hendelRamzy/how-session-and-cookies-works-640fb3f349d1>. Acesso em: 29 mar. 2026.
+
+MANUAL. PHP: Variáveis predefinidas - Manual. Disponível em: <https://www.php.net/manual/pt_BR/reserved.variables.php>. Acesso em: 28 mar. 2026.
+
+‌MANUAL. PHP: Sessões - Manual. Disponível em: <https://www.php.net/manual/pt_BR/book.session.php>. Acesso em: 30 mar. 2026.
