@@ -1,3 +1,7 @@
+/* Alunos: Bruno Bandeira Marques e Heitor de Lima Dias
+verificar se o número esculhido pelo usuário está entre 100 e 200
+*/
+
 <?php
 
 $nv = $_GET["nv"];
