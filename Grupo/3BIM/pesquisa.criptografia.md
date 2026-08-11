@@ -1,4 +1,5 @@
-alunos: Bruno Bandeira, Daniel Ferreira, Enzo Silva e Heitor de Lima
+# Pesquisa sobre criptografias PHP
+---
 
 🔐 Criptografia no PHP
 
@@ -82,8 +83,9 @@ Importância: é a forma recomendada pelo PHP para guardar senhas de usuários.
 
 📊 Comparação rápida
 
-Método| Tipo| Uso principal
-AES| Criptografia| Proteger dados recuperáveis
+| Método| Tipo | Uso principal | 
+---
+| AES| Criptografia | Proteger dados recuperáveis | 
 MD5| Hash| Sistemas antigos e verificações simples
 SHA-256| Hash| Integridade e segurança de dados
 SHA-512| Hash| Hashes mais fortes
@@ -101,3 +103,12 @@ Cada método possui uma função diferente:
 - password_hash() é a melhor opção para armazenar senhas em aplicações PHP.
 
 O uso correto dessas ferramentas ajuda a criar sistemas mais seguros e proteger informações importantes.Essa versão fica mais adequada para uma atividade escolar no GitHub, sem ficar muito extensa.
+
+---
+
+### Alunos:
+
+Bruno Bandeira --
+Daniel Ferreira --
+Enzo Silva --
+Heitor de Lima 
