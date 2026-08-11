@@ -83,12 +83,11 @@ Importância: é a forma recomendada pelo PHP para guardar senhas de usuários.
 
 📊 Comparação rápida
 
-| Método| Tipo | Uso principal | 
----
-| AES| Criptografia | Proteger dados recuperáveis | 
-MD5| Hash| Sistemas antigos e verificações simples
-SHA-256| Hash| Integridade e segurança de dados
-SHA-512| Hash| Hashes mais fortes
+| Método|    Tipo      | Uso principal |
+| AES   | Criptografia | Proteger dados recuperáveis |
+| MD5| Hash| Sistemas antigos e verificações simples |
+| SHA-256| Hash | Integridade e segurança de dados |
+| SHA-512| Hash | Hashes mais fortes
 password_hash()| Hash de senha| Armazenamento seguro de senhas
 
 ---
